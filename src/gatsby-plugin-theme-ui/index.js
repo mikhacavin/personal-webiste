@@ -2,16 +2,16 @@ export default {
   colors: {
     text: '#000',
     background: '#fff',
-    primary: '#5C2941',
+    primary: '#0097e6',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
-    borderColor:"#540229",
+    borderColor:"#0097e6",
     labelText: "#777",
     inputBorder: "#aaa",
     inputBackground: "#fff",
     socialIcons:"#a8959e",
-    socialIconsHover:"#5c2941",
+    socialIconsHover:"#00a8ff",
     modes: {
       dark: {
         text: '#f5f5f5',
