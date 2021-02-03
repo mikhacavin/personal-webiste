@@ -3,11 +3,11 @@ template: about-page
 slug: /about
 title: About Me
 ---
-Hai There!
+H
 
 ### \- Kenalan dulu dong
 
-Saya Mikha Cavin, kalo di dunia nyata kamu bisa panggil saya Mikha atau Cavin ( kevin ).
+Saya Mikha Cavin, kalo di dunia nyata kamu bisa panggil saya Mikha atau Cavin (kevin).
 
 kalau kalian tanya saya sekarang tinggal dimana, Well,  I'm currently living in Medan, Sumatera Utara yang gak asing dengan kata "biar gak itu kali" "biar gak apa kali"  hehehe.
 
@@ -25,8 +25,6 @@ I'am a Digital craftman focusing on full-stack Web Development and UX design.
 
 Belajar pemrograman bener-bener mengubah cara berfikir saya. Sekarang ini saya lebih suka yang namanya Problem Solving, yang bener-bener ngepush otak saya untuk berfikir secara kritis ( belum masuk UGD kok ) yang membuat lelah namun, BOOM! ketika saya bisa memecahkan casenya, itu rasanya kayak kalian baru ditembak ceue ( canda ) dan itu bener-bener membuat energy saya Recharge kembali sodara-sodara..
 
-
-
 ### \- Very very the last...
 
 Sedikit tentang gambaran saya :
@@ -38,7 +36,5 @@ Sedikit tentang gambaran saya :
 \- Tahan didepan Komputer/Laptop 3 Jam+
 
 \- When I have free time, I prefer to doing Exercise.
-
-
 
 > I recently working on Growing Company in Medan. I'm unavailable for new work, but if you want to hangout and talk with me, you can reach me on Instagram [@mikhacavin](https://www.instagram.com/mikhacavin/)
