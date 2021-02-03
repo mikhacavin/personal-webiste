@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Mikha Cavin - Full Stack Web Developer",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Mikha Cavin - Personal Site to keep my ideas not Dissapear and helping each other from my Website.",
+    "siteUrl": "https://mikhacavin.com/",
+    "image": "/assets/1609081416107-01.jpg",
+    "iconimage": "/assets/1609081416107-01.jpg",
+    "twitterUsername": "@mikhacavin"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
