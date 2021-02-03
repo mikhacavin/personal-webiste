@@ -1,8 +1,12 @@
 ---
 template: contact-page
 slug: /contact
-title: Get in touch
+title: Contact Me
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Hey! I get lots of email, so please scan this page before firing one off. Don't be afraid to email me, it just might take a few days (or weeks) for me to get back to you.
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+**If you want me to work for you**, I am not accepting any client work at the moment.
+
+**If you want career or development advice**, I'm happy to help as best I can. I prefer you submit it as a potluck question on [](https://syntax.fm/)[DM](https://twitter.com/mikhacavin) so the greater community can benefit, but I'll still try answer if you want to privately!
+
+Thanks, have a great day!
