@@ -5,7 +5,7 @@ title: Mikha Cavin
 tagline: Web Developer
 featuredImage: /assets/1609081416107-01.jpg
 cta:
-  ctaText: Know more
+  ctaText: Know more.
   ctaLink: /about
 ---
 #### Hai! saya Mikha Cavin
