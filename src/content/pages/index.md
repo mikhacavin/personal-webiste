@@ -8,6 +8,6 @@ cta:
   ctaText: Know more.
   ctaLink: /about
 ---
-#### Hai! saya Mikha Cavin
+#### Hai! Saya Mikha Cavin
 
-Salam Kenal, Saya suka Ngomong, kadang suka Mikir. Exited sama hal baru atau membuat sesuatu seperti mikhacavin.com, ada yang berhasil banyak yang tidak.
+Salam Kenal, Saya suka ngomong, kadang suka mikir. Exited sama hal baru atau membuat sesuatu seperti **mikhacavin.com** , ada yang berhasil banyak yang tidak.
