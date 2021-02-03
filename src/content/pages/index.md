@@ -1,7 +1,7 @@
 ---
 template: index-page
 slug: /
-title: Mikha Cavin
+title: mikhacavin.com
 tagline: Personal Site.
 featuredImage: /assets/1609081416107-01.jpg
 cta:
