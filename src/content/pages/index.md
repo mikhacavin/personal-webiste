@@ -2,7 +2,7 @@
 template: index-page
 slug: /
 title: Mikha Cavin
-tagline: Personal Site
+tagline: Personal Site.
 featuredImage: /assets/1609081416107-01.jpg
 cta:
   ctaText: Know more.
