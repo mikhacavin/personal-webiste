@@ -2,23 +2,31 @@
   "socialIcons": [
     {
       "icon": "facebook",
-      "url": "https://www.facebook.com/stackrolecom"
+      "url": "https://www.facebook.com/mikhacavin"
     },
     {
       "icon": "instagram",
-      "url": "https://www.instagram.com/stackrole/"
+      "url": "https://www.instagram.com/mikhacavin/"
     },
     {
       "icon": "linkedin",
-      "url": "https://in.linkedin.com/company/stackrole"
+      "url": "http://linkedin.com/in/mikha-cavin-arthur-imanuel"
     },
     {
       "icon": "youtube",
-      "url": "https://www.youtube.com/channel/UCc1hYgIP_DzFMMzwLRcbDVQ"
+      "url": "https://www.youtube.com/channel/UCGUT2v13YdtM9WYLvauCU2A"
     },
     {
       "icon": "dribbble",
-      "url": "https://dribbble.com/stackrole"
+      "url": "https://dribbble.com/mikhacavin"
+    },
+    {
+      "icon": "twitter",
+      "url": "https://twitter.com/mikhacavin"
+    },
+    {
+      "icon": "github",
+      "url": "https://github.com/mikhacavin"
     }
   ]
 }
