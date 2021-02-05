@@ -10,4 +10,4 @@ cta:
 ---
 #### Hai! Saya Mikha Cavin
 
-Salam Kenal, Saya suka ngomong, biasanya sering berfikir. Exited sama hal baru atau membuat sesuatu seperti **mikhacavin.com** , ada yang berhasil banyak yang tidak.
+Salam Kenal, Saya suka ngomong, biasanya sering berfikir. Excited sama hal baru atau membuat sesuatu seperti **mikhacavin.com** , ada yang berhasil banyak yang tidak.
