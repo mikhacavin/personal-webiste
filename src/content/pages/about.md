@@ -21,7 +21,7 @@ I'am a Digital craftman focusing on full-stack Web Development and UX design.
 
 *I've been in love with web development* for over half my life. Seems weird, right?
 
-Belajar pemrograman bener-bener mengubah cara berfikir saya. Sekarang ini jadi tertarik dengan Problem Solving, yang bener-bener ngepush otak untuk berfikir secara kritis (belum masuk UGD kok) yang membuat lelah namun, BOOM! ketika bisa memecahkan casenya, itu rasanya kayak kita dapeting barang yang susah dicari pas lagi butuh-butuhnya (hehe) dan itu bener-bener membuat energy yang tadinya habis and then, Recharge kembali sodara-sodara..
+Belajar pemrograman bener-bener mengubah cara berfikir saya. Sekarang ini jadi tertarik dengan Problem Solving, yang bener-bener ngepush otak untuk berfikir secara kritis (belum masuk UGD kok) yang membuat lelah namun, BOOM! ketika bisa memecahkan casenya, itu rasanya kayak kita dapetin barang yang susah dicari pas lagi butuh-butuhnya (hehe) dan itu bener-bener membuat energy yang tadinya habis and then, Recharge kembali. sodara-sodara..
 
 ## \- Very very the last...
 
@@ -31,7 +31,7 @@ Sedikit tentang gambaran saya :
 
 \- A Guy with a sense of humor
 
-\- Tahan didepan Komputer/Laptop 3 Jam+
+\- Tahan didepan Komputer/Laptop 3 Jam+ (update : 8 jam - remote worker)
 
 \- When I have free time, I prefer to doing Exercise.
 
