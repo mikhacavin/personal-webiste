@@ -10,4 +10,4 @@ cta:
 ---
 #### Hai! Saya Mikha Cavin
 
-Salam Kenal, Saya suka ngomong, biasanya sering berfikir. Excited sama hal baru atau membuat sesuatu seperti **mikhacavin.com** , ada yang berhasil banyak yang tidak. Currently minting[ **eloistc.com**](https://eloistic.com) and **[kasih.org](https://kasih.org)**.
+Salam Kenal, Saya suka ngomong, biasanya sering berfikir. Excited sama hal baru atau membuat sesuatu seperti **mikhacavin.com** , ada yang berhasil banyak yang tidak. Currently minting[ **eloistic.com**](https://eloistic.com) and **[kasih.org](https://kasih.org)**.
